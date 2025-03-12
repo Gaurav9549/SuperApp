@@ -1,2 +1,3 @@
+**MyVerse SuperApp Personalized App**
 **Deployment Link:**
-[https://dashing-basbousa-b87e96.netlify.app/]
+[https://fantastic-souffle-614c45.netlify.app/]
